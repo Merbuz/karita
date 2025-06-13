@@ -28,3 +28,6 @@ strict = true
 
 [tool.ruff.lint.isort]
 force-sort-within-sections = true
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
